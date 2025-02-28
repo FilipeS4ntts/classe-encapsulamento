@@ -1,1 +1,1 @@
-# classe-encapsulamento(em processo)
+# classe-encapsulamento
